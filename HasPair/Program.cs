@@ -6,7 +6,7 @@ namespace HasPair
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+           
         }
     }
 }
